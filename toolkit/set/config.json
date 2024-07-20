@@ -1,17 +1,17 @@
 {
   "owner": [
-    "6283110928302@s.whatsapp.net"
+    "6281333154367@s.whatsapp.net"
   ],
   "botname": "(Experimental) -▪︎ Bella-AI",
   "botfullname": "Bella Clarissa",
   "botnickname": "Bella",
-  "ownername": "rifza",
+  "ownername": "Zall",
   "cfg": {
     "public": true,
     "ai_interactive": true,
     "autotyping": true,
-    "autoreadpc": false,
-    "autoreadgc": false,
+    "autoreadpc": true,
+    "autoreadgc": true,
     "first": {
       "energy": 200
     },
